@@ -22,7 +22,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guangxiaozhi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guangxiaozhi)](https://github.com/guangxiaozhi/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guangxiaozhi)](https://github.com/guangxiaozhi/github-readme-stats) -->
 <!--
 **guangxiaozhi/guangxiaozhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
