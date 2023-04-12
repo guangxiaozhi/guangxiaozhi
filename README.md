@@ -1,5 +1,5 @@
 ### Hi there 👋
-✨ I'm Xiaoguang, a software developer with a education background in mathematic computational. I recently bulit three full stack projects, one with a team of three others and the other two by myself.  ✨
+✨ I'm Xiaoguang, a software developer with education background in Computational Mathematics. I recently bulit three full stack projects, one with a team of three others and the other two by myself. I am looking for help with finding a software engineer job! ✨
 
 ## 👩🏻‍💻 I code with
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
